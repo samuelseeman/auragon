@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D9797C462F2067CE009863F4 /* Build configuration list for PBXProject "Auragon" */;
+			buildConfigurationList = D9797C462F2067CE009863F4 /* Build configuration list for PBXProject "auragon" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -330,7 +330,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D9797C462F2067CE009863F4 /* Build configuration list for PBXProject "Auragon" */ = {
+		D9797C462F2067CE009863F4 /* Build configuration list for PBXProject "auragon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D9797C562F2067D0009863F4 /* Debug */,
