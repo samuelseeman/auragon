@@ -10,9 +10,22 @@
 		D9797C4B2F2067CE009863F4 /* auragon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = auragon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		D9797C6B2F207C52009863F4 /* Exceptions for "auragon" folder in "auragon" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = D9797C4A2F2067CE009863F4 /* auragon */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		D9797C4D2F2067CE009863F4 /* auragon */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				D9797C6B2F207C52009863F4 /* Exceptions for "auragon" folder in "auragon" target */,
+			);
 			path = auragon;
 			sourceTree = "<group>";
 		};
@@ -85,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D9797C462F2067CE009863F4 /* Build configuration list for PBXProject "auragon" */;
+			buildConfigurationList = D9797C462F2067CE009863F4 /* Build configuration list for PBXProject "Auragon" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -256,6 +269,8 @@
 				DEVELOPMENT_TEAM = TWDMB829K9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = auragon/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Auragon;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -288,6 +303,8 @@
 				DEVELOPMENT_TEAM = TWDMB829K9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = auragon/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Auragon;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -313,7 +330,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D9797C462F2067CE009863F4 /* Build configuration list for PBXProject "auragon" */ = {
+		D9797C462F2067CE009863F4 /* Build configuration list for PBXProject "Auragon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D9797C562F2067D0009863F4 /* Debug */,
